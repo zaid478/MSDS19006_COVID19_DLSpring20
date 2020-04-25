@@ -1,1 +1,14 @@
+This file contains links for the weights for all models (Google drive link)
 
+
+VGG 16 (Finetuning fully connected layers)
+https://drive.google.com/open?id=1169PhP-oXsVbuE77zl2uMLX0tfhEQfK0
+
+VGG 16 (Finetuning the whole network)
+https://drive.google.com/open?id=1-r3yqkUAkfcxSEga8EzfvPrfRD4mhEyb
+
+ResNet 18 (Finetuning fully connected layers)
+https://drive.google.com/open?id=12QLco6YjpR9AlJllRgMaf7xpAxy7HSt3
+
+ResNet 18 (Finetuning the whole network)
+https://drive.google.com/open?id=1WDZ2Cn8ifS9M17YKKVoU9ZxELCRWQn36
